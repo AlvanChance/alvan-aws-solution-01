@@ -1,1 +1,1 @@
-# alvan-aws-solution-01
+# alvan-aws-academy-self-design-solutions
